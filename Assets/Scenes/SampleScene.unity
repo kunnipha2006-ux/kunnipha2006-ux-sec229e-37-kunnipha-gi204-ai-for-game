@@ -393,6 +393,67 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1001 &639455321
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9999533
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.9258922
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7cb0985aa979f8e458e23399dba62049, type: 2}
+    - target: {fileID: 919132149155446097, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_A_realistic_3D_charac_0308184208_texture
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9778c101479bea44ca7af3c04fd4689d, type: 3}
 --- !u!1 &760229828
 GameObject:
   m_ObjectHideFlags: 0
@@ -693,3 +754,4 @@ SceneRoots:
   - {fileID: 832575519}
   - {fileID: 760229832}
   - {fileID: 1565326771}
+  - {fileID: 639455321}
